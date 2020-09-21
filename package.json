@@ -1,0 +1,14 @@
+{
+  "name": "pemanasan",
+  "version": "1.0.0",
+  "description": "latihan node.js",
+  "main": "server-native.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Firmanda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
